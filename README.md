@@ -6,4 +6,8 @@ Previous Experience?
 Insert Undergrad
 Insert Age
 Insert Name
-Insert Masters
+Insert Masters 
+
+### Jose
+Mechatronics Engineer
+MSc EWS
