@@ -7,3 +7,7 @@ Insert Undergrad
 Insert Age
 Insert Name
 Insert Masters
+
+## Jorge
+Applied Robotics 
+MSc EWS
