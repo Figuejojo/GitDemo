@@ -2,8 +2,8 @@
 Git demo for UOY students
 
 ## What to do
+Previous Experience?
+Insert Undergrad
 Insert Age
 Insert Name
-Insert Undergrad
-Previous Experience?
 Insert Masters
